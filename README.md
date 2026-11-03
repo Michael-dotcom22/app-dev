@@ -17,7 +17,7 @@
 - Jessica Pearson
 - Daniel Hardman
 
-  | Character | Description |
+| Character | Description |
 | ----------- | ----------- |
 | Mike Ross | Not a real lawyer; he is a fraud. |
 | Harvey Specter | Like a brother and mentor to Mike Ross. |
