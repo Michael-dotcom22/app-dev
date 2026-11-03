@@ -9,3 +9,17 @@
 
 *See the link below*
 [Suits Description](https://en.wikipedia.org/wiki/Suits_(American_TV_series))
+
+## Main Characters
+-Michael Ross
+-Louis Litt
+-Jessica Pearson
+-Harvey Specter
+-Daniel Hardman
+
+| Character | Description |
+| ----------- | ----------- |
+| Mike Ross | Not a real lawyer; he is a fraud. |
+| Harvey Specter | Like a brother and mentor to Mike Ross. |
+| Louis Litt | Devious and famished. |
+| Jessica Pearson | Managing partner at Pearson Hardman. |
